@@ -24,3 +24,4 @@
 /DailyWorkTrackDataAccess/obj/Debug/DailyWorkTrackDataAccess.1.0.0.nuspec
 /DailyWorkTrackDataAccess/bin/Debug/DailyWorkTrackDataAccess.1.0.0.nupkg
 /DailyWorkTrackDataAccess/.vs/DailyWorkTrackDataAccess/FileContentIndex/aa829cd5-8fe8-498f-870a-16cad8446fd9.vsidx
+*.vsidx
